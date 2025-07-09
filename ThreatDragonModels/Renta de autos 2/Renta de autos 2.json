@@ -2,15 +2,15 @@
   "version": "2.4.1",
   "summary": {
     "title": "Renta de autos 2",
-    "owner": "",
+    "owner": "Orlando Franco",
     "description": "",
     "id": 0
   },
   "detail": {
     "contributors": [],
     "diagrams": [],
-    "diagramTop": 0,
-    "reviewer": "",
+    "diagramTop": 1,
+    "reviewer": "Angelica Suarez",
     "threatTop": 0
   }
 }
