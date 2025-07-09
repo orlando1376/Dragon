@@ -125,7 +125,7 @@
             "data": {
               "type": "tm.Process",
               "name": "Pasarela de\npagos",
-              "description": "",
+              "description": "Pasarela externa",
               "outOfScope": false,
               "isTrustBoundary": false,
               "reasonOutOfScope": "",
@@ -602,7 +602,7 @@
             "data": {
               "type": "tm.Process",
               "name": "Verificación",
-              "description": "",
+              "description": "Valida usuarios",
               "outOfScope": false,
               "isTrustBoundary": false,
               "reasonOutOfScope": "",
@@ -725,7 +725,7 @@
             "data": {
               "type": "tm.Store",
               "name": "Base de datos",
-              "description": "",
+              "description": "Registro de autos",
               "outOfScope": false,
               "isTrustBoundary": false,
               "reasonOutOfScope": "",
@@ -1139,7 +1139,16 @@
               "cell": "199f0dc8-87f1-4a0e-a2a6-b6ae4983af0b",
               "port": "89ed8b0c-8a03-4567-96a9-88b6b908c295"
             },
-            "vertices": []
+            "vertices": [
+              {
+                "x": 840,
+                "y": 300
+              },
+              {
+                "x": 810,
+                "y": 250
+              }
+            ]
           },
           {
             "shape": "flow",
